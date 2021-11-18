@@ -35,7 +35,7 @@
 const int CW = -1;
 const int CCW = 1;
 // Set direction: CW is clockwise, CCW ist anti clockwise #+#+#+#+#+#+#+#+#+#+
-const int Clock_direction = CW;
+const int Clock_direction = CCW;
 // #+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#
 
 // RTC
