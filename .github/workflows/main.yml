@@ -1,5 +1,7 @@
-uses: rlespinasse/drawio-export-action@v2
-with:
-  path: /SilentClock
-  format: png
-  transparent: true
+on:
+  push:
+  uses: rlespinasse/drawio-export-action@v2
+  with:
+    path: /SilentClock
+    format: png
+    transparent: true
