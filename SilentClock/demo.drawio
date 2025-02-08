@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
   <diagram name="Seite-1" id="gkl9eLOdX-bpgmcwseyp">
-    <mxGraphModel dx="1114" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="369" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="30" y="585" width="750" height="285" as="geometry" />
         </mxCell>
         <mxCell id="ET2XU4VfjTMw3kdMQiyS-12" value="LASER TUBE COOLING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;connectable=0;allowArrows=0;verticalAlign=middle;align=left;" parent="1" vertex="1">
-          <mxGeometry x="70" y="600" width="210" height="80" as="geometry" />
+          <mxGeometry x="80" y="600" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ET2XU4VfjTMw3kdMQiyS-13" value="LASER TUBE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;connectable=0;allowArrows=0;verticalAlign=middle;align=left;" parent="1" vertex="1">
           <mxGeometry x="70" y="690" width="210" height="80" as="geometry" />
