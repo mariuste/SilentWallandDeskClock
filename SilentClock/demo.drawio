@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ET2XU4VfjTMw3kdMQiyS-4" value="NOZZLE PORT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;connectable=0;allowArrows=0;verticalAlign=middle;align=left;" parent="1" vertex="1">
-          <mxGeometry x="100" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ET2XU4VfjTMw3kdMQiyS-5" value="X2-LIMIT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;connectable=0;allowArrows=0;verticalAlign=middle;align=left;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="120" height="40" as="geometry" />
