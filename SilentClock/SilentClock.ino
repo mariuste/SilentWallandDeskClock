@@ -11,11 +11,11 @@
 */
 
 #include <Arduino.h>
-// "StepperDriver" by Laurentiu Badea v1.3.1
+// "StepperDriver" by Laurentiu Badea v1.4.1
 // Info: https://github.com/laurb9/StepperDriver
 #include "BasicStepperDriver.h"
 
-// "DS3231" by Andrew Wickert, Eric Ayars, Jean-Claude Wippler, Northern Widget LLC v1.0.7
+// "DS3231" by Andrew Wickert, Eric Ayars, Jean-Claude Wippler, Northern Widget LLC v1.1.2
 // Info: https://github.com/NorthernWidget/DS3231
 
 // Arduino Libraries:
